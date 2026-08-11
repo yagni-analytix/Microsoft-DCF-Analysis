@@ -113,12 +113,13 @@ The risk-free rate is dated to the valuation date. Equity risk premium, beta, pr
 - Equity risk premium, beta, cost of debt, and long-run assumptions require periodic refresh.
 - This is an educational portfolio project and is **not investment advice**.
 
-## Files
+## Project files
 
-- [Reviewed Excel model](model/Microsoft_DCF_Analysis_Reviewed.xlsx)
-- [Detailed audit report](docs/MODEL_AUDIT.md)
+- [Final Excel valuation model](model/Microsoft_DCF_Analysis_Final.xlsx)
+- [Investment memo (PDF)](docs/Microsoft_Investment_Memo.pdf)
+- [Investment memo (Markdown)](docs/INVESTMENT_Memo.md)
+- [Buffett 5-Tenets analysis](docs/BUFFETT_5_TENETS.md)
+- [Detailed model audit](docs/MODEL_AUDIT.md)
 - [Methodology notes](docs/METHODOLOGY.md)
-- [Resume bullets](docs/RESUME_BULLETS.md)
-- [LinkedIn case-study draft](docs/LINKEDIN_CASE_STUDY.md)
 - [Source registry](data/sources.csv)
 - [Model data dictionary](data/data_dictionary.csv)
