@@ -1,0 +1,25 @@
+Sheet / Concept,Purpose / Definition,Primary Outputs
+00_Assumptions,"Centralized operating, reinvestment, WACC, market, and terminal assumptions","Growth, margins, tax, CapEx, NWC, WACC, and terminal growth"
+01_Model_Guide_Sources,"Model guide, color convention, source registry, audit trail","Source IDs, corrections, presentation notes"
+02_Historical_Financials,Consolidated and segment actuals; cash flow and capital allocation,"Revenue, margins, CFO, cash FCF, segment mix"
+03_Business_Quality,"Profitability, cash conversion, reinvestment, ROIC","ROIC, incremental ROIC, cash conversion"
+04_Invested_Capital,Financing-based invested capital including finance leases,Ending and average invested capital
+05_Segment_Drivers,Segment actuals and forecast assumptions,"Segment revenue, growth, operating income, margin"
+06_Consolidated_Forecast,Consolidated forecast and cash-flow build,"NOPAT, cash-based UFCF, lease-adjusted UFCF"
+07_DCF,Base-case valuation,"Enterprise value, equity value, intrinsic value per share"
+08_Reverse_DCF,Market-implied growth analysis,"Solved growth uplift, market-implied revenue path"
+09_Sensitivity_Analysis,WACC/terminal-growth sensitivity and scenarios,"Valuation range and bear/base/bull scenarios"
+10_Dashboard,Executive summary,"Valuation, growth, returns, CapEx, risks"
+11_Buffett_5_Tenets,"Buffett-inspired business quality, capital allocation, and margin-of-safety framework","Weighted score, WATCH / WAIT stance, margin-of-safety prices, monitoring triggers"
+Cash-Based UFCF,Cash flow from operations minus cash CapEx,Historical liquidity/cash conversion
+NOPAT,Operating income after normalized/forecast operating tax,After-tax operating profit
+Total CapEx,Cash CapEx plus finance-lease additions,Economic infrastructure investment
+Lease-Adjusted UFCF,NOPAT + D&A and other noncash charges - Total CapEx - change in operating NWC,Primary DCF cash flow
+Invested Capital,Equity + debt + finance leases - cash/investments,ROIC denominator
+ROIC,NOPAT divided by average invested capital,Capital efficiency
+Incremental ROIC,Change in NOPAT divided by change in ending invested capital,Return on new capital
+WACC,Weighted cost of equity and after-tax debt/lease capital,DCF discount rate
+Reverse DCF Growth Uplift,"Additional consolidated growth above base case, fading to zero",Market-implied expectations
+Buffett-Inspired Overall Score,Weighted sum of five tenet scores,74.5 / 100
+Business Quality Ex-Valuation,Weighted quality score excluding valuation,88.1 / 100
+Margin-of-Safety Price,Intrinsic value multiplied by one minus the selected discount,15% MOS price = $312.67

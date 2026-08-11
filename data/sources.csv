@@ -1,0 +1,13 @@
+Source ID,Data / Assumption,Period,Primary Source,URL,Used In
+S01,"FY2026 financial statements, segment results, cash flow, shares",FY2026,Microsoft Investor Relations,https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast,"02,04,05,06,07"
+S02,FY2025 annual report and segment recast,FY2025,Microsoft Annual Report,https://www.microsoft.com/investor/reports/ar25/index.html,"02,04,05,06"
+S03,FY2024 annual report,FY2024,Microsoft Annual Report,https://www.microsoft.com/investor/reports/ar24/index.html,"02,04,06"
+S04,FY2023 annual report,FY2023,Microsoft Annual Report,https://www.microsoft.com/investor/reports/ar23/index.html,"02,04,06"
+S05,FY2022 annual report,FY2022,Microsoft Annual Report,https://www.microsoft.com/investor/reports/ar22/index.html,"02,04"
+S06,FY2021 annual report,FY2021,Microsoft Annual Report,https://www.microsoft.com/investor/reports/ar21/index.html,"02,04"
+S07,FY2020 opening invested-capital balances,FY2020,Microsoft Annual Report,https://www.microsoft.com/investor/reports/ar20/index.html,04
+S08,10-year Treasury constant-maturity rate,2026-08-06,U.S. Department of the Treasury,https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve,"00,07,09"
+S09,ERP and beta methodology reference,2026,NYU Stern / Aswath Damodaran,https://pages.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html,00
+S10,MSFT closing share price of $499.86 on the valuation date,2026-08-06,MarketWatch,https://www.marketwatch.com/investing/stock/msft/download-data,"00,07,08,09,10"
+S11,FY2026 finance-lease additions and liabilities,FY2026,Microsoft FY2026 Form 10-K / SEC,https://www.sec.gov/edgar/browse/?CIK=789019&owner=exclude,"04,06,07"
+S12,"FY2026 Azure revenue, Copilot paid seats, and commercial remaining performance obligation",FY2026,Microsoft Investor Relations - FY2026 Q4,https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast,"11; investment memo"
