@@ -1,2 +1,2 @@
 # Microsoft-DCF-Analysis
-Intrinsic valuation of Microsoft Corporation using a five-year Discounted Cash Flow model, scenario analysis, and investment thesis.
+Segment-driven Microsoft DCF, reverse DCF, ROIC, lease-adjusted UFCF, and AI/cloud investment analysis.
