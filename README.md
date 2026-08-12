@@ -117,7 +117,6 @@ The risk-free rate is dated to the valuation date. Equity risk premium, beta, pr
 
 - [Final Excel valuation model](model/Microsoft_DCF_Analysis_Final.xlsx)
 - [Investment memo (PDF)](docs/Microsoft_Investment_Memo.pdf)
-- [Investment memo (Markdown)](docs/INVESTMENT_Memo.md)
 - [Buffett 5-Tenets analysis](docs/BUFFETT_5_TENETS.md)
 - [Detailed model audit](docs/MODEL_AUDIT.md)
 - [Methodology notes](docs/METHODOLOGY.md)
