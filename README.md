@@ -2,7 +2,7 @@
 
 ![Microsoft DCF dashboard](assets/dashboard_overview.png)
 
-A segment-driven valuation and business-quality analysis of Microsoft, built as a portfolio project to answer one central investment question:
+This project values Microsoft using a segment-based DCF and examines whether its AI and cloud investments support the current market valuation. 
 
 > **Can Microsoft's AI and cloud investments generate sufficient long-term free cash flow growth and returns to justify its market valuation?**
 
@@ -28,15 +28,15 @@ A segment-driven valuation and business-quality analysis of Microsoft, built as 
 
 The base case values Microsoft below the market price. Holding the operating-margin, tax, reinvestment, WACC, and terminal-growth paths constant, the reverse DCF indicates that the market price requires approximately **7.41 percentage points** of additional FY2027 consolidated revenue growth above the base case, with the uplift fading to zero by FY2036.
 
-## What differentiates the model
+## What the model includes
 
-- **Segment-driven forecast:** Productivity & Business Processes, Intelligent Cloud, and More Personal Computing are modeled separately.
-- **Reporting-basis control:** FY2023A–FY2026A segment history uses Microsoft's FY2025 recast reporting structure; legacy FY2021A–FY2022A data is separated.
-- **Business-quality analysis:** Margin durability, cash conversion, reinvestment intensity, ROIC, and incremental ROIC.
-- **Lease-adjusted economics:** Total CapEx includes finance-lease additions, preventing the DCF from understating AI/datacenter reinvestment.
-- **Reverse DCF:** Solves for the growth trajectory embedded in the market price.
-- **Auditability:** Centralized assumptions, source registry, formula-driven forecasts, and validation checks.
-- **Decision-ready presentation:** Executive dashboard, valuation scenarios, and WACC/terminal-growth sensitivity.
+- Separate forecasts for Productivity & Business Processes, Intelligent Cloud, and More Personal Computing.
+- Historical segment data adjusted to reflect Microsoft's updated reporting structure.
+- Analysis of margins, cash conversion, reinvestment, ROIC and incremental ROIC.
+- Finance-lease additions included in CapEx to better reflect datacenter investment.
+- Reverse DCF analysis to estimate the growth assumptions implied by the current market price.
+- Centralized assumptions, source tracking, and model checks to make the workbook easier to review.
+- Dashboard and sensitivity analysis summarizing the main valuation outputs and risks.
 
 ## Workbook architecture
 
